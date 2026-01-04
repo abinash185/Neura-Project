@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1767538313768" clover="3.2.0">
+  <project timestamp="1767538313768" name="All files">
+    <metrics statements="120" coveredstatements="105" conditionals="52" coveredconditionals="48" methods="53" coveredmethods="44" elements="225" coveredelements="197" complexity="0" loc="120" ncloc="120" packages="6" files="11" classes="11"/>
+    <package name="src">
+      <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <file name="App.tsx" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\App.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="11" count="8" type="stmt"/>
+        <line num="13" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.app">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="store.ts" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\app\store.ts">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="12" coveredmethods="12"/>
+      <file name="FilterBar.tsx" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\components\FilterBar.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="4" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+      <file name="ProductCard.tsx" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\components\ProductCard.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="12" count="12" type="stmt"/>
+        <line num="14" count="24" type="stmt"/>
+        <line num="16" count="12" type="stmt"/>
+        <line num="18" count="12" type="stmt"/>
+        <line num="19" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="26" count="12" type="stmt"/>
+      </file>
+      <file name="SearchBar.tsx" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\components\SearchBar.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="6" type="stmt"/>
+        <line num="18" count="6" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.features.favorites">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="3"/>
+      <file name="favoritesSlice.ts" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\features\favorites\favoritesSlice.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="3"/>
+        <line num="8" count="8" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="17" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+        <line num="27" count="8" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.features.products">
+      <metrics statements="14" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="5"/>
+      <file name="productsSlice.ts" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\features\products\productsSlice.ts">
+        <metrics statements="14" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="5"/>
+        <line num="21" count="6" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="34" count="6" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="49" count="6" type="stmt"/>
+        <line num="51" count="2" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="58" count="0" type="stmt"/>
+        <line num="63" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages">
+      <metrics statements="78" coveredstatements="68" conditionals="44" coveredconditionals="41" methods="27" coveredmethods="22"/>
+      <file name="Favorites.tsx" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\pages\Favorites.tsx">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="9" count="10" type="stmt"/>
+        <line num="11" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="32" count="6" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+      </file>
+      <file name="ProductDetail.tsx" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\pages\ProductDetail.tsx">
+        <metrics statements="47" coveredstatements="38" conditionals="20" coveredconditionals="18" methods="11" coveredmethods="9"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="12" count="14" type="stmt"/>
+        <line num="13" count="23" type="stmt"/>
+        <line num="15" count="14" type="stmt"/>
+        <line num="16" count="14" type="stmt"/>
+        <line num="18" count="14" type="stmt"/>
+        <line num="20" count="14" type="stmt"/>
+        <line num="21" count="14" type="stmt"/>
+        <line num="22" count="14" type="stmt"/>
+        <line num="24" count="14" type="stmt"/>
+        <line num="26" count="6" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="32" count="6" type="stmt"/>
+        <line num="36" count="6" type="stmt"/>
+        <line num="40" count="14" type="stmt"/>
+        <line num="41" count="11" type="cond" truecount="4" falsecount="0"/>
+        <line num="42" count="4" type="stmt"/>
+        <line num="48" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="49" count="4" type="stmt"/>
+        <line num="58" count="14" type="stmt"/>
+        <line num="59" count="9" type="stmt"/>
+        <line num="60" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="62" count="3" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="82" count="3" type="stmt"/>
+        <line num="83" count="0" type="stmt"/>
+        <line num="86" count="3" type="stmt"/>
+        <line num="87" count="3" type="stmt"/>
+        <line num="89" count="3" type="stmt"/>
+        <line num="90" count="3" type="stmt"/>
+        <line num="91" count="3" type="stmt"/>
+        <line num="95" count="14" type="stmt"/>
+        <line num="96" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="98" count="3" type="stmt"/>
+        <line num="99" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="102" count="14" type="cond" truecount="2" falsecount="0"/>
+        <line num="103" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="105" count="7" type="stmt"/>
+      </file>
+      <file name="ProductList.tsx" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\pages\ProductList.tsx">
+        <metrics statements="22" coveredstatements="21" conditionals="18" coveredconditionals="17" methods="11" coveredmethods="8"/>
+        <line num="11" count="8" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="14" count="17" type="stmt"/>
+        <line num="16" count="8" type="stmt"/>
+        <line num="17" count="8" type="cond" truecount="4" falsecount="0"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="22" count="8" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="25" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="33" count="6" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="6" type="stmt"/>
+        <line num="39" count="8" type="stmt"/>
+        <line num="40" count="6" type="cond" truecount="4" falsecount="0"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="55" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="56" count="3" type="stmt"/>
+        <line num="63" count="5" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="77" count="5" type="stmt"/>
+      </file>
+      <file name="test-utils.tsx" path="C:\Users\abina\Downloads\Neura-Assigment-master\Neura-Assigment-master\src\pages\test-utils.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
