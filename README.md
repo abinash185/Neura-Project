@@ -78,6 +78,8 @@ Coverage reports are generated in the `coverage/` directory. Open `coverage/lcov
 -   Debounced search behavior is tested using Vitest's fake timers for reliable results.
 
 <img width="1917" height="866" alt="image" src="https://github.com/user-attachments/assets/85617a91-176a-4f59-991a-d62b1f6a24f1" />
+<img width="981" height="608" alt="image" src="https://github.com/user-attachments/assets/339b788b-7bee-4d3b-8df6-d6e41088e4c7" />
+
 
 
 ## Additional Information
